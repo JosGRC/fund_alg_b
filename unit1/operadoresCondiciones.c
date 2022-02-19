@@ -33,5 +33,16 @@ int main(int argc, char** argv){
         //rejected product
     }
 
+    // e.g.
+    int price Product = 500;
+    int userMoney - argv[1];
+    bool hasuserMoney = (usermoney >= priceProduct);
+     
+    if (has user money){
+        printf("The product was sended!");
+    } else {
+        printf("The product was rejected!");
+    }
+
     return 0;
 }
